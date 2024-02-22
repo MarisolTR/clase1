@@ -1,0 +1,29 @@
+*
+{
+    margin: 20px;
+}
+body
+{
+    font-family:Tahoma;
+}
+h1
+{
+    padding: 10px;
+    border: 15px;
+    border-style: dotted;
+    color:hotpink;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-align: center;
+}
+p
+{
+    background-color: darkorange;
+    color: darkblue;
+    text-align: justify;
+}
+img
+{
+    width: 30%;
+    
+}
